@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 30),
             Text(
-              'Patient Management',
+              'Patient Management System',
               style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
             ),
             Divider(
