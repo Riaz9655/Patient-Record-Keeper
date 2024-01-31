@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926063384061",
+    "project_id": "patientrecord-f654d",
+    "storage_bucket": "patientrecord-f654d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926063384061:android:82ac2e6aad1a4ae3fcf594",
+        "android_client_info": {
+          "package_name": "com.example.patient_record_generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteaHUabSYbGFMC0Q1kgfzFrCsGc74wAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
